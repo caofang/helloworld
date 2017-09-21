@@ -8,4 +8,6 @@ int main()
 	printf("hello world 2\n");
 
 	printf("Add\t%d\n",Add(1,2));
+
+	printf("Subtract\t%d\n",Subtract(3,2));
 }
